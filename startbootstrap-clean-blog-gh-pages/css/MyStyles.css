@@ -8,9 +8,6 @@ font-family: 'Times New Roman', Times, serif;
 ul{
     padding: 5%;
 }
-ol{
-   
-}
 nav{
     background-color: grey;
     padding:10px;
@@ -23,7 +20,6 @@ nav a{
     color: #333;
     font-size: 16px;
     font-weight: bold;
-   
 }
 nav a:hover{
     background-color: #ccc;
